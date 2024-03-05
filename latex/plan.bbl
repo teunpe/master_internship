@@ -1,0 +1,631 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{bouniot_understanding_2023}{misc}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=50caf8dda13cd7e78d7222f1264ebe9a}{%
+           family={Bouniot},
+           familyi={B\bibinitperiod},
+           given={Quentin},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7398fa85cd6c5fbbc0ab4cf7f0685b46}{%
+           family={Redko},
+           familyi={R\bibinitperiod},
+           given={Ievgen},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ce04d496612e01c04af85220e033a5c}{%
+           family={Mallasto},
+           familyi={M\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f43cb77a225afde21bd40e688809ce6}{%
+           family={Laclau},
+           familyi={L\bibinitperiod},
+           given={Charlotte},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69cbed629a72e5d562cfa6c6b349c7cc}{%
+           family={Arndt},
+           familyi={A\bibinitperiod},
+           given={Karol},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d5e99a51b19f7422844b5f37130512}{%
+           family={Struckmeier},
+           familyi={S\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdaf9b82010acfd23f1aea226a05d9b9}{%
+           family={Heinonen},
+           familyi={H\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d5a9080538af7c2eeea5b457fd44d6c}{%
+           family={Kyrki},
+           familyi={K\bibinitperiod},
+           given={Ville},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4e041fb1be6fc5ec0f43802c95087d2}{%
+           family={Kaski},
+           familyi={K\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{13271993760c6da1d51f9eee367e677e}
+      \strng{fullhash}{8c65edaaca30425d7672398ac276f52b}
+      \strng{bibnamehash}{13271993760c6da1d51f9eee367e677e}
+      \strng{authorbibnamehash}{13271993760c6da1d51f9eee367e677e}
+      \strng{authornamehash}{13271993760c6da1d51f9eee367e677e}
+      \strng{authorfullhash}{8c65edaaca30425d7672398ac276f52b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The remarkable success of deep neural networks (DNN) is often attributed to their high expressive power and their ability to approximate functions of arbitrary complexity. Indeed, DNNs are highly non-linear models, and activation functions introduced into them are largely responsible for this. While many works studied the expressive power of DNNs through the lens of their approximation capabilities, quantifying the non-linearity of DNNs or of individual activation functions remains an open problem. In this paper, we propose the first theoretically sound solution to track non-linearity propagation in deep neural networks with a specific focus on computer vision applications. Our proposed affinity score allows us to gain insights into the inner workings of a wide range of different architectures and learning paradigms. We provide extensive experimental results that highlight the practical utility of the proposed affinity score and its potential for long-reaching applications.}
+      \field{month}{10}
+      \field{note}{arXiv:2310.11439 [cs, stat]}
+      \field{title}{Understanding deep neural networks through the lens of their non-linearity}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2310.11439
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:/home/teun/Zotero/storage/LPI8FP5U/Bouniot et al. - 2023 - Understanding deep neural networks through the len.pdf:application/pdf;arXiv.org Snapshot:/home/teun/Zotero/storage/F5JWVPRI/2310.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2310.11439
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2310.11439
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Statistics - Machine Learning}
+    \endentry
+    \entry{carlini_towards_2017}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=93330b46aec6ec2750a8adced7fef821}{%
+           family={Carlini},
+           familyi={C\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45a593fbd4e5b2f4d60199ccfdb4fe59}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{fullhash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{bibnamehash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{authorbibnamehash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{authornamehash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{authorfullhash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Neural networks provide state-of-the-art results for most machine learning tasks. Unfortunately, neural networks are vulnerable to adversarial examples: given an input \$x\$ and any target classification \$t\$, it is possible to find a new input \$x'\$ that is similar to \$x\$ but classified as \$t\$. This makes it difficult to apply neural networks in security-critical areas. Defensive distillation is a recently proposed approach that can take an arbitrary neural network, and increase its robustness, reducing the success rate of current attacks' ability to find adversarial examples from \$95{\textbackslash}\%\$ to \$0.5{\textbackslash}\%\$. In this paper, we demonstrate that defensive distillation does not significantly increase the robustness of neural networks by introducing three new attack algorithms that are successful on both distilled and undistilled neural networks with \$100{\textbackslash}\%\$ probability. Our attacks are tailored to three distance metrics used previously in the literature, and when compared to previous adversarial example generation algorithms, our attacks are often much more effective (and never worse). Furthermore, we propose using high-confidence adversarial examples in a simple transferability test we show can also be used to break defensive distillation. We hope our attacks will be used as a benchmark in future defense attempts to create neural networks that resist adversarial examples.}
+      \field{month}{3}
+      \field{note}{arXiv:1608.04644 [cs]}
+      \field{title}{Towards {Evaluating} the {Robustness} of {Neural} {Networks}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.1608.04644
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:/home/teun/Zotero/storage/6NQKNEDW/Carlini and Wagner - 2017 - Towards Evaluating the Robustness of Neural Networ.pdf:application/pdf;arXiv.org Snapshot:/home/teun/Zotero/storage/QXCMV6R5/1608.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1608.04644
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1608.04644
+      \endverb
+      \keyw{Computer Science - Computer Vision and Pattern Recognition,Computer Science - Cryptography and Security}
+    \endentry
+    \entry{foret_sharpness-aware_2021}{misc}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6bfcb67d0c72c6205462d38e12e7a62f}{%
+           family={Foret},
+           familyi={F\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d02aae6e2d48c6d81a8516fca8221f55}{%
+           family={Kleiner},
+           familyi={K\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2800380ecd0add8d852a779e92ca497}{%
+           family={Mobahi},
+           familyi={M\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5f9e207dc41c0bc364d3e1d7be37cf1}{%
+           family={Neyshabur},
+           familyi={N\bibinitperiod},
+           given={Behnam},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{92d0ff2143d8287cd17067248f006303}
+      \strng{fullhash}{99dd629a92a3f92c619b8700e7b05e0f}
+      \strng{bibnamehash}{92d0ff2143d8287cd17067248f006303}
+      \strng{authorbibnamehash}{92d0ff2143d8287cd17067248f006303}
+      \strng{authornamehash}{92d0ff2143d8287cd17067248f006303}
+      \strng{authorfullhash}{99dd629a92a3f92c619b8700e7b05e0f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently. We present empirical results showing that SAM improves model generalization across a variety of benchmark datasets (e.g., CIFAR-10, CIFAR-100, ImageNet, finetuning tasks) and models, yielding novel state-of-the-art performance for several. Additionally, we find that SAM natively provides robustness to label noise on par with that provided by state-of-the-art procedures that specifically target learning with noisy labels. We open source our code at {\textbackslash}url\{https://github.com/google-research/sam\}.}
+      \field{month}{4}
+      \field{note}{arXiv:2010.01412 [cs, stat]}
+      \field{title}{Sharpness-{Aware} {Minimization} for {Efficiently} {Improving} {Generalization}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2010.01412
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:/home/teun/Zotero/storage/563UWAR9/Foret et al. - 2021 - Sharpness-Aware Minimization for Efficiently Impro.pdf:application/pdf;arXiv.org Snapshot:/home/teun/Zotero/storage/MFAJQS98/2010.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2010.01412
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2010.01412
+      \endverb
+      \keyw{Computer Science - Machine Learning,Statistics - Machine Learning}
+    \endentry
+    \entry{goodfellow_explaining_2015}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d4f74ef4c79f3bb1e51e378184d8850e}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian\bibnamedelima J.},
+           giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f128e70084608a2c29c497ebd794f87}{%
+           family={Shlens},
+           familyi={S\bibinitperiod},
+           given={Jonathon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed568d9c3bb059e6bf22899fbf170f86}{%
+           family={Szegedy},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{07b2928cf9addb6cf2d09332e9d7ce18}
+      \strng{fullhash}{07b2928cf9addb6cf2d09332e9d7ce18}
+      \strng{bibnamehash}{07b2928cf9addb6cf2d09332e9d7ce18}
+      \strng{authorbibnamehash}{07b2928cf9addb6cf2d09332e9d7ce18}
+      \strng{authornamehash}{07b2928cf9addb6cf2d09332e9d7ce18}
+      \strng{authorfullhash}{07b2928cf9addb6cf2d09332e9d7ce18}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Several machine learning models, including neural networks, consistently misclassify adversarial examples---inputs formed by applying small but intentionally worst-case perturbations to examples from the dataset, such that the perturbed input results in the model outputting an incorrect answer with high confidence. Early attempts at explaining this phenomenon focused on nonlinearity and overfitting. We argue instead that the primary cause of neural networks' vulnerability to adversarial perturbation is their linear nature. This explanation is supported by new quantitative results while giving the first explanation of the most intriguing fact about them: their generalization across architectures and training sets. Moreover, this view yields a simple and fast method of generating adversarial examples. Using this approach to provide examples for adversarial training, we reduce the test set error of a maxout network on the MNIST dataset.}
+      \field{month}{3}
+      \field{note}{arXiv:1412.6572 [cs, stat]}
+      \field{title}{Explaining and {Harnessing} {Adversarial} {Examples}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.1412.6572
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:/home/teun/Zotero/storage/MNMEEUIW/Goodfellow et al. - 2015 - Explaining and Harnessing Adversarial Examples.pdf:application/pdf;arXiv.org Snapshot:/home/teun/Zotero/storage/AZRI4XJ5/1412.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1412.6572
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1412.6572
+      \endverb
+      \keyw{Computer Science - Machine Learning,Statistics - Machine Learning}
+    \endentry
+    \entry{hu_measuring_2020}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=13be76d254e7c2f65cfc92bc75bb18fd}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xia},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52895fa79ee709385ae0205c9d42e10b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Weiqing},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9856bacbe78d7b7b8450e13766f6bce7}{%
+           family={Bian},
+           familyi={B\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56af930e1f5e2c9a791b71e7b347c0ba}{%
+           family={Pei},
+           familyi={P\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{389d256d99430e965f24be7c8e00ef55}
+      \strng{fullhash}{d5a2f114061e9b592cecfb637ec641f7}
+      \strng{bibnamehash}{389d256d99430e965f24be7c8e00ef55}
+      \strng{authorbibnamehash}{389d256d99430e965f24be7c8e00ef55}
+      \strng{authornamehash}{389d256d99430e965f24be7c8e00ef55}
+      \strng{authorfullhash}{d5a2f114061e9b592cecfb637ec641f7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is fundamental to measure model complexity of deep neural networks. A good model complexity measure can help to tackle many challenging problems, such as overfitting detection, model selection, and performance improvement. The existing literature on model complexity mainly focuses on neural networks with piecewise linear activation functions. Model complexity of neural networks with general curve activation functions remains an open problem. To tackle the challenge, in this paper, we first propose linear approximation neural network (LANN for short), a piecewise linear framework to approximate a given deep model with curve activation function. LANN constructs individual piecewise linear approximation for the activation function of each neuron, and minimizes the number of linear regions to satisfy a required approximation degree. Then, we analyze the upper bound of the number of linear regions formed by LANNs, and derive the complexity measure based on the upper bound. To examine the usefulness of the complexity measure, we experimentally explore the training process of neural networks and detect overfitting. Our results demonstrate that the occurrence of overfitting is positively correlated with the increase of model complexity during training. We find that the L1 and L2 regularizations suppress the increase of model complexity. Finally, we propose two approaches to prevent overfitting by directly constraining model complexity, namely neuron pruning and customized L1 regularization.}
+      \field{booktitle}{Proceedings of the 26th {ACM} {SIGKDD} {International} {Conference} on {Knowledge} {Discovery} \& {Data} {Mining}}
+      \field{isbn}{978-1-4503-7998-4}
+      \field{month}{8}
+      \field{series}{{KDD} '20}
+      \field{title}{Measuring {Model} {Complexity} of {Neural} {Networks} with {Curve} {Activation} {Functions}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1521\bibrangedash 1531}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1145/3394486.3403203
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/teun/Zotero/storage/68W5VVPU/Hu et al. - 2020 - Measuring Model Complexity of Neural Networks with.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3394486.3403203
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3394486.3403203
+      \endverb
+      \keyw{data mining,deep learning,model complexity,model interpretability}
+    \endentry
+    \entry{montavon_layer-wise_2019}{incollection}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=e0889b25b37f68a2d73747dc5dfcb8a0}{%
+           family={Montavon},
+           familyi={M\bibinitperiod},
+           given={Grégoire},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d122a2a87d21da4007f460564975e967}{%
+           family={Binder},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae7623274e86daf16f369161c4ae78f7}{%
+           family={Lapuschkin},
+           familyi={L\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f49b6382ab4ca917a2aa2249f875f79}{%
+           family={Samek},
+           familyi={S\bibinitperiod},
+           given={Wojciech},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f1b6144a45b1967e989e74552e37ada}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Klaus-Robert},
+           giveni={K\bibinithyphendelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=7f49b6382ab4ca917a2aa2249f875f79}{%
+           family={Samek},
+           familyi={S\bibinitperiod},
+           given={Wojciech},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e0889b25b37f68a2d73747dc5dfcb8a0}{%
+           family={Montavon},
+           familyi={M\bibinitperiod},
+           given={Grégoire},
+           giveni={G\bibinitperiod}}}%
+        {{hash=85ab53268da1006b51b453d57d3566f2}{%
+           family={Vedaldi},
+           familyi={V\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7a7130546e0e77ad18f09ab8062ec764}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Lars\bibnamedelima Kai},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9f1b6144a45b1967e989e74552e37ada}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Klaus-Robert},
+           giveni={K\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{0e9835294203df396bc6021a5d0308c5}
+      \strng{fullhash}{f428d6ccba232bf03eefb744099fb95c}
+      \strng{bibnamehash}{0e9835294203df396bc6021a5d0308c5}
+      \strng{authorbibnamehash}{0e9835294203df396bc6021a5d0308c5}
+      \strng{authornamehash}{0e9835294203df396bc6021a5d0308c5}
+      \strng{authorfullhash}{f428d6ccba232bf03eefb744099fb95c}
+      \strng{editorbibnamehash}{341d993b247c87792776bbde4307294e}
+      \strng{editornamehash}{341d993b247c87792776bbde4307294e}
+      \strng{editorfullhash}{c7d29e58961350a826e01b818b038e8e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{For a machine learning model to generalize well, one needs to ensure that its decisions are supported by meaningful patterns in the input data. A prerequisite is however for the model to be able to explain itself, e.g. by highlighting which input features it uses to support its prediction. Layer-wise Relevance Propagation (LRP) is a technique that brings such explainability and scales to potentially highly complex deep neural networks. It operates by propagating the prediction backward in the neural network, using a set of purposely designed propagation rules. In this chapter, we give a concise introduction to LRP with a discussion of (1) how to implement propagation rules easily and efficiently, (2) how the propagation procedure can be theoretically justified as a ‘deep Taylor decomposition’, (3) how to choose the propagation rules at each layer to deliver high explanation quality, and (4) how LRP can be extended to handle a variety of machine learning scenarios beyond deep neural networks.}
+      \field{booktitle}{Explainable {AI}: {Interpreting}, {Explaining} and {Visualizing} {Deep} {Learning}}
+      \field{isbn}{978-3-030-28954-6}
+      \field{shorttitle}{Layer-{Wise} {Relevance} {Propagation}}
+      \field{title}{Layer-{Wise} {Relevance} {Propagation}: {An} {Overview}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{193\bibrangedash 209}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-3-030-28954-6_10
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-030-28954-6_10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-030-28954-6_10
+      \endverb
+      \keyw{Deep Neural Networks,Deep Taylor Decomposition,Explanations,Layer-wise Relevance Propagation}
+    \endentry
+    \entry{qin_adversarial_2019}{misc}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=c11a0aefb861923f6c7bdd8286ef91ed}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Chongli},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6811d5cc72244219e1b98cf2bb1b64f1}{%
+           family={Martens},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1684b384584547bc4441639093dc0533}{%
+           family={Gowal},
+           familyi={G\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e4c62612fa904e2c1c6c00006ccc142}{%
+           family={Krishnan},
+           familyi={K\bibinitperiod},
+           given={Dilip},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3d5fc162da46d4c94c75406a21ccaeb}{%
+           family={Dvijotham},
+           familyi={D\bibinitperiod},
+           given={Krishnamurthy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d0a51ac9b8292a50431f9ee0b663937}{%
+           family={Fawzi},
+           familyi={F\bibinitperiod},
+           given={Alhussein},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecaba94719fcf1d4a72c36c926bb26c4}{%
+           family={De},
+           familyi={D\bibinitperiod},
+           given={Soham},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2099a15d8047563df967f184d50c71c}{%
+           family={Stanforth},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0d21ff02dda6c0a7d09ef7436bd329b}{%
+           family={Kohli},
+           familyi={K\bibinitperiod},
+           given={Pushmeet},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{3335d4722703631efc43bf5a001ec5b8}
+      \strng{fullhash}{a49de411870c010fa36d9720989f204d}
+      \strng{bibnamehash}{3335d4722703631efc43bf5a001ec5b8}
+      \strng{authorbibnamehash}{3335d4722703631efc43bf5a001ec5b8}
+      \strng{authornamehash}{3335d4722703631efc43bf5a001ec5b8}
+      \strng{authorfullhash}{a49de411870c010fa36d9720989f204d}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Adversarial training is an effective methodology for training deep neural networks that are robust against adversarial, norm-bounded perturbations. However, the computational cost of adversarial training grows prohibitively as the size of the model and number of input dimensions increase. Further, training against less expensive and therefore weaker adversaries produces models that are robust against weak attacks but break down under attacks that are stronger. This is often attributed to the phenomenon of gradient obfuscation; such models have a highly non-linear loss surface in the vicinity of training examples, making it hard for gradient-based attacks to succeed even though adversarial examples still exist. In this work, we introduce a novel regularizer that encourages the loss to behave linearly in the vicinity of the training data, thereby penalizing gradient obfuscation while encouraging robustness. We show via extensive experiments on CIFAR-10 and ImageNet, that models trained with our regularizer avoid gradient obfuscation and can be trained significantly faster than adversarial training. Using this regularizer, we exceed current state of the art and achieve 47\% adversarial accuracy for ImageNet with l-infinity adversarial perturbations of radius 4/255 under an untargeted, strong, white-box attack. Additionally, we match state of the art results for CIFAR-10 at 8/255.}
+      \field{month}{10}
+      \field{note}{arXiv:1907.02610 [cs, stat]}
+      \field{title}{Adversarial {Robustness} through {Local} {Linearization}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.1907.02610
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:/home/teun/Zotero/storage/NPUND5TU/Qin et al. - 2019 - Adversarial Robustness through Local Linearization.pdf:application/pdf;arXiv.org Snapshot:/home/teun/Zotero/storage/QISRYT5E/1907.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1907.02610
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1907.02610
+      \endverb
+      \keyw{Computer Science - Machine Learning,Statistics - Machine Learning}
+    \endentry
+    \entry{serra_bounding_2018}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=891821c2ca8cf08f5f0314204ae59203}{%
+           family={Serra},
+           familyi={S\bibinitperiod},
+           given={Thiago},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8203bb82d6f5bb33429e7fcd328f43fd}{%
+           family={Tjandraatmadja},
+           familyi={T\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be538775946a6383d7e384a002242f66}{%
+           family={Ramalingam},
+           familyi={R\bibinitperiod},
+           given={Srikumar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{5539c57722813b3a43d410380e629f3c}
+      \strng{fullhash}{5539c57722813b3a43d410380e629f3c}
+      \strng{bibnamehash}{5539c57722813b3a43d410380e629f3c}
+      \strng{authorbibnamehash}{5539c57722813b3a43d410380e629f3c}
+      \strng{authornamehash}{5539c57722813b3a43d410380e629f3c}
+      \strng{authorfullhash}{5539c57722813b3a43d410380e629f3c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We investigate the complexity of deep neural networks (DNN) that represent piecewise linear (PWL) functions. In particular, we study the number of linear regions, i.e. pieces, that a PWL function represented by a DNN can attain, both theoretically and empirically. We present (i) tighter upper and lower bounds for the maximum number of linear regions on rectifier networks, which are exact for inputs of dimension one; (ii) a first upper bound for multi-layer maxout networks; and (iii) a first method to perform exact enumeration or counting of the number of regions by modeling the DNN with a mixed-integer linear formulation. These bounds come from leveraging the dimension of the space defining each linear region. The results also indicate that a deep rectifier network can only have more linear regions than every shallow counterpart with same number of neurons if that number exceeds the dimension of the input.}
+      \field{annotation}{Comment: ICML 2018}
+      \field{month}{9}
+      \field{note}{arXiv:1711.02114 [cs, math, stat]}
+      \field{title}{Bounding and {Counting} {Linear} {Regions} of {Deep} {Neural} {Networks}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.1711.02114
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:/home/teun/Zotero/storage/CG8QWJ42/Serra et al. - 2018 - Bounding and Counting Linear Regions of Deep Neura.pdf:application/pdf;arXiv.org Snapshot:/home/teun/Zotero/storage/AQYQC2W2/1711.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1711.02114
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1711.02114
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Computer Science - Neural and Evolutionary Computing,Mathematics - Optimization and Control,Statistics - Machine Learning}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

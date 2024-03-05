@@ -1,0 +1,48 @@
+\documentclass[]{article}
+
+\usepackage[paper=a4paper,margin=1in]{geometry}% http://ctan.org/pkg/geometry
+\usepackage[australian]{babel}
+\usepackage[backend=biber, style=authoryear]{biblatex}
+\addbibresource{library.bib}
+
+\begin{document}
+\newgeometry{top=1in}
+\begin{center}
+    \large
+    \textbf{Research Internship}\\
+    \normalsize
+    Teun Peeters\\
+    s1003465, teun.peeters@ru.nl\\
+    \vspace*{0.5cm}
+    Data Science Group, ICIS\\
+    Supervisor: Dr. Twan van Laarhoven
+\end{center}
+\vspace*{0.5cm}
+\subsubsection*{Background}
+\noindent During my internship I will be implementing a method for estimating linearity of Deep Neural Networks (DNNs). Linearity is not a topic that has been extensively researched in DNNs, although some papers have examined effects of the degree of linearity. Serra et al. (\citeyear{serra_bounding_2018}) finds that the number of linear regions in a DNN with rectifier units can be counted and shows a correlation between the number of linear regions and model performance. Hu et al. (\citeyear{hu_measuring_2020}) in a similar method uses the linear regions to prevent overfitting. Inversely, Bouniot et al. (\citeyear{bouniot_understanding_2023}) examines non-linearity in DNNs, proposing a metric that quantifies the non-linearity of a transformation and shows that it can predict model performance. 
+
+\noindent
+I will furthermore attempt to predict layer-wise contribution using the linearity measure, based on the hypothesis that linearity influences model performance and can be measured per layer. This is related to layer-wise relevance propagation, which has been studied more extensively (\cite{montavon_layer-wise_2019}).
+
+\noindent
+Carlini and Wagner (\citeyear{carlini_towards_2017}) and Goodfellow et al. (\citeyear{goodfellow_explaining_2015}) argue that local linearity in neural networks enables the use of adversarial examples. I will attempt to examine this effect and see if there is a correlation between global linearity and this local linearity. Considering the loss, local linearity in fact contributes to adversarial robustness (\cite{qin_adversarial_2019}). A similar effect is used in Sharpness-Aware Minimization to increase model performance and robustness (\cite{foret_sharpness-aware_2021}).
+
+\subsubsection*{Research activities}
+\begin{enumerate}
+    \item Implement the linearity measure over a simple fully connected model
+    \item Investigate the correlation between linearity and model performance
+    \item Implement a layer-wise linearity measure
+    \item Investigate the correlation between layer-wise linearity and model performance
+    \item Investigate the correlation between linearity and model robustness
+    \item Extend the linearity measure to other models, such as CNNs, LSTMs, and RNNs
+\end{enumerate}
+
+\subsubsection*{Planning}
+The start date of the internship was 4 March 2024, and the end date is 12 July. During the internship I will work an average of 3 days per week. 
+
+\subsubsection*{Approval}
+This uploaded proposal was (not yet) approved by dr. Twan van Laarhoven.
+
+\subsubsection*{References}
+\printbibliography[heading=none]
+\end{document}
