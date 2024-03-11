@@ -27,6 +27,11 @@ I will furthermore attempt to predict layer-wise contribution using the linearit
 \noindent
 Carlini and Wagner (\citeyear{carlini_towards_2017}) and Goodfellow et al. (\citeyear{goodfellow_explaining_2015}) argue that local linearity in neural networks enables the use of adversarial examples. I will attempt to examine this effect and see if there is a correlation between global linearity and this local linearity. Considering the loss, local linearity in fact contributes to adversarial robustness (\cite{qin_adversarial_2019}). A similar effect is used in Sharpness-Aware Minimization to increase model performance and robustness (\cite{foret_sharpness-aware_2021}).
 
+\begin{eqnarray*}
+    &f(x) = w*x + b\\
+    &f'(x) = w
+\end{eqnarray*}
+
 \subsubsection*{Research activities}
 \begin{enumerate}
     \item Implement the linearity measure over a simple fully connected model
